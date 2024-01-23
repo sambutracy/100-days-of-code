@@ -8,7 +8,8 @@ The log of my #100DaysOfCode challenge. Started on January 17, Wednesday , 2024.
 2. I looked for resources and projects that align with my goals. Luckily, Microsoft has a well documented C# program that meets my expectations. So I signed up for [FreeCodeCamp's Foundational C# with Microsoft course](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft) that will help me to kickstart and understand the basics of the language.
 
 ### R1D1 17th January, 2024
-I started off with the basics of C#. [Tweet](https://x.com/sambu_tracy/status/1747791996213944485?s=20) of today. I was able to learn the following concepts:
+I started off with the basics of C#. [Tweet](https://x.com/sambu_tracy/status/1747791996213944485?s=20) of today.
+I was able to learn the following concepts:
 1. Write your first lines of C# code
 2. Use two different techniques to print a message to a text console
 3. Diagnose errors when you type code incorrectly
@@ -16,7 +17,8 @@ I started off with the basics of C#. [Tweet](https://x.com/sambu_tracy/status/17
 
 
 ### R1D2 18th January 2024
-I completed the Store and retrieve data using literal and variable values in C# part of the program. The learning objectives were:
+I completed the Store and retrieve data using literal and variable values in C# part of the program. 
+The learning objectives were:
 1. Create literal values for five basic data types
 2. Declare and initialize variables
 3. Retrieve and set values in variables
