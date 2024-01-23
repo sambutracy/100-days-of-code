@@ -17,7 +17,7 @@ I was able to learn the following concepts:
 
 
 ### R1D2 18th January 2024
-I completed the Store and retrieve data using literal and variable values in C# part of the program. 
+I completed the Store and retrieve data using literal and variable values in C# part of the program.
 The learning objectives were:
 1. Create literal values for five basic data types
 2. Declare and initialize variables
@@ -25,7 +25,7 @@ The learning objectives were:
 4. Allow the compiler to determine the data type for your variable when initializing
 
 ### R1D3 19th January 2024
-Completed the Perform basic string formatting in C# part
+Completed the Perform basic string formatting in C# part.
 The objectives were:
 1. Create string data containing tabs, new lines, and other special characters
 2. Create string data containing Unicode characters
@@ -40,7 +40,7 @@ The objectives were:
 3. Temporarily convert one data type into another
 
 ### R1D5 21st January 2024
-Completed the Guided project - Calculate and print student grades
+Completed the Guided project - Calculate and print student grades.
 The objectives were:
 1. Learn to develop basic applications by breaking down the work into smaller parts
 2. Identify appropriate data types for storing and working with variables
@@ -48,7 +48,7 @@ The objectives were:
 4. Apply formatting techniques to display output
 
 ### R1D6 22nd January 2024
-Took a break from c# and focussed on Python Exceptions
+Took a break from c# and focussed on Python Exceptions.
 Objectives:
 1. Learn difference between errors and exceptions,what exceptions are and how to use them
 2. when we need to use exceptions and how to correctly handle them
